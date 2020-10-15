@@ -1,2 +1,2 @@
 # app1
-REST api
+RESTfull api
